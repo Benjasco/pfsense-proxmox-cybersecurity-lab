@@ -168,6 +168,7 @@ I created three Windows 11 VMs, each tagged with VLANs 50, 60, and 70.
 ![Ping results for VLAN 70](images/VulnerableVm_PingResult.png)
 
 *Figure 13: Ping results for VLAN 70 (Vulnerable VMs)*
+
 ---
 
 ## 7. Lessons Learned and Next Steps

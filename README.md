@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This project is part of my ongoing **enterprise-level cybersecurity home lab build**.  
+This project is the network design and segmentation phase of my ongoing **enterprise-level cybersecurity home lab build**.  
 
 The goal was to design and implement network segmentation and firewall controls for **isolated Blue Team, Red Team, and Vulnerable environments** using **Proxmox** and **pfSense**.
 
@@ -179,7 +179,7 @@ I created three Windows 11 VMs, each tagged with VLANs 50, 60, and 70.
 - Hands-on troubleshooting with DHCP and interface assignment.
 
 ### Planned Enhancements
-- Expand the lab with Blue and Red Team tools.
-- Adjust firewall rules as needed once the lab is fully operational.
+- Integrate Blue Team and Red Team cybersecurity tools.
+- Refine firewall rules as the lab becomes fully operational.
 
 ---

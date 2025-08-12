@@ -1,4 +1,4 @@
-# Building Isolated Networks for a Cybersecurity Lab with pfSense and Proxmox
+# Built isolated networks as the foundation of an enterprise-level cybersecurity home lab
 
 ## 1. Project Overview
 

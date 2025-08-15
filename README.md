@@ -174,9 +174,17 @@ I created three Windows 11 VMs, each tagged with VLANs 50, 60, and 70.
 ## 7. Lessons Learned and Next Steps
 
 ### Key Takeaways
-- Better understanding of VLAN tagging at hypervisor vs. VM level.
-- Importance of firewall rule order.
-- Hands-on troubleshooting with DHCP and interface assignment.
+
+- Designed and deployed enterprise-grade network segmentation** in a virtualized lab, implementing VLAN-based isolation for Blue Team, Red Team, and Vulnerable environments.  
+
+- Applied a Zero Trust and least-privilege approach**, using a default-deny firewall policy with explicit, service-specific allow rules to minimize attack surface and prevent lateral movement.  
+
+- Developed and tested ACLs that enforce strict role-based access control**, ensuring VLAN-to-VLAN communication occurs only when operationally necessary.  
+
+- Strengthened practical troubleshooting skills** by resolving VLAN tagging, DHCP configuration, and interface assignment challenges in a Proxmox–pfSense setup.  
+
+- Built a scalable foundation for advanced cybersecurity training**, enabling future integration of SOC workflows, IDS/IPS, and red team simulation tools.  
+
 
 ### Planned Enhancements
 - Integrate Blue Team and Red Team cybersecurity tools.
